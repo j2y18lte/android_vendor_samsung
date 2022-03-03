@@ -1,0 +1,2 @@
+on init
+	mount none /system/lib/libprocessgroup.so /system/lib/vndk-sp-29/libprocessgroup.so bind
